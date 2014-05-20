@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.exple.customlistview.app.CustomListView">
+
+    <item
+        android:id="@+id/add"
+        android:title="Add new"
+        android:orderInCategory="100">
+
+    </item>
+</menu>
